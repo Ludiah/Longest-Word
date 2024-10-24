@@ -11,7 +11,7 @@ Your program should read lines from standard input. Each line has one or more wo
 
 Print the longest word in the sentence. 
 
-*Test 1 
+* Test 1 
 
 Test Input 
 
@@ -21,7 +21,7 @@ Expected Output
 
 some 
 
-*Test 2 
+* Test 2 
 
 Test Input 
 
