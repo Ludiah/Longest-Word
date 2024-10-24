@@ -1,7 +1,7 @@
 # Longest Word
 **Programming challenge description:** 
 
-In this challenge you need to find the longest word in a sentence. If the sentence has more than one word of the same length you should pick the one that appears first. 
+This challenge question was pulled from a job interview: Find the longest word in a sentence. If the sentence has more than one word of the same length you should pick the one that appears first. 
 
 **Input:** 
 
